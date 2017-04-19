@@ -1,4 +1,7 @@
-# test coverage for  [homebridge-sonos (v0.2.1)](https://github.com/nfarina/homebridge-sonos#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-homebridge-sonos.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-homebridge-sonos) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-homebridge-sonos.svg)](https://travis-ci.org/npmtest/node-npmtest-homebridge-sonos)
+# npmtest-homebridge-sonos
+
+#### test coverage for  [homebridge-sonos (v0.2.1)](https://github.com/nfarina/homebridge-sonos#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-homebridge-sonos.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-homebridge-sonos) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-homebridge-sonos.svg)](https://travis-ci.org/npmtest/node-npmtest-homebridge-sonos)
+
 #### Sonos plugin for homebridge: https://github.com/nfarina/homebridge
 
 [![NPM](https://nodei.co/npm/homebridge-sonos.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/homebridge-sonos)
